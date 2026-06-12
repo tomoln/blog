@@ -1,7 +1,7 @@
 # Hugo 基本設定 — PaperMod テーマ対応 完全版
 # Copyright (c) 2026 Tomo. All rights reserved.
 
-baseURL: "https://tomoln.netlify.app/"
+baseURL: "https://tomoln.github.io/blog/"
 title: "Tomo's Dev Blog"
 theme: PaperMod
 languageCode: ja-jp
