@@ -103,6 +103,30 @@ privacy:
     disable: false
     privacyEnhanced: true
 
+# メインメニュー
+menu:
+  main:
+    - identifier: home
+      name: ホーム
+      url: /
+      weight: 1
+    - identifier: posts
+      name: 記事一覧
+      url: /posts/
+      weight: 10
+    - identifier: categories
+      name: カテゴリ
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: タグ
+      url: /tags/
+      weight: 30
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+
 # 著者情報
 author:
   name: "Tomo"

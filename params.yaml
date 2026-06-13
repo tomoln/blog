@@ -36,6 +36,10 @@ params:
   profileMode:
     enabled: false
 
+  # メインセクション（トップページに表示するコンテンツ）
+  mainSections:
+    - posts
+
   # カバー画像設定
   cover:
     hiddenInList: false
