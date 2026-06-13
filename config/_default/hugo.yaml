@@ -2,7 +2,7 @@
 # Copyright (c) 2026 Tomo. All rights reserved.
 
 baseURL: "https://tomoln.github.io/blog/"
-title: "Tomo's Dev Blog"
+title: "Argon"
 theme: PaperMod
 languageCode: ja-jp
 defaultContentLanguage: ja
@@ -131,4 +131,4 @@ menu:
 author:
   name: "Tomo"
   email: ""
-  url: "https://tomoln.netlify.app/"
+  url: "https://tomoln.github.io/blog/"

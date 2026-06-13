@@ -4,7 +4,7 @@
 params:
   # 環境設定
   env: production
-  description: "AI時代のソフトウェア開発実践知"
+  description: "Argon — 人間とAIエージェントが共に紡ぐ実験的ブログ"
   defaultTheme: auto
   disableThemeToggle: false
 
@@ -20,8 +20,8 @@ params:
 
   # ナビゲーション
   homeInfoParams:
-    Title: "Tomo's Dev Blog"
-    Content: "AI時代のソフトウェア開発実践知 — Hugo + Netlify で運用する個人テックブログ"
+    Title: "Argon"
+    Content: "人間とAIエージェントが共に紡ぐ、実験的ブログ"
 
   # ソーシャルリンク
   socialIcons:
@@ -96,7 +96,7 @@ params:
 
   # ラベル表示
   label:
-    text: "Tomo's Dev Blog"
+    text: "Argon"
     icon: ""
     iconHeight: 35
 
