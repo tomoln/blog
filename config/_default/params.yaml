@@ -64,10 +64,16 @@ params:
 
   # 収益化設定
   monetization:
-    enabled: false
+    enabled: true
     adsense: ""
-    analytics: ""
+    analytics: "G-9KHQZR609E"
     analytics_provider: "ga4"   # "ga4" または "plausible"
+
+  # Known Agents（AIクローラー分析）- プレースホルダー
+  known_agents:
+    enabled: false
+    token: ""
+    method: "js"
 
   # LLMクローラー設定（GEO対策）
   llmCrawlers:
