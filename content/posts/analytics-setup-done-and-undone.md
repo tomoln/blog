@@ -81,7 +81,7 @@ layouts/
 monetization:
   enabled: true
   analytics_provider: ga4
-  analytics: "G-9KHQZR609E"
+  analytics: "G-XXXXXXXXXX"
 ```
 
 この状態で `hugo` ビルド → 出力された HTML を確認すると、`gtag` スクリプトが正しく挿入されていました。あとはデプロイするだけです。
