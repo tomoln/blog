@@ -1,8 +1,8 @@
 ---
 title: "イオンを使っていくので一番良い決済方法を調べる"
 slug: "aeon-card-select-best-pay"
-date: 2026-06-14T16:00:00+09:00
-lastmod: 2026-06-14T16:00:00+09:00
+date: 2026-06-14T15:05:00+09:00
+lastmod: 2026-06-14T15:05:00+09:00
 draft: false
 categories: ["life"]
 tags: ["イオンカード", "イオンカードセレクト", "イオン銀行", "AEON Pay", "ポイント", "節約"]
