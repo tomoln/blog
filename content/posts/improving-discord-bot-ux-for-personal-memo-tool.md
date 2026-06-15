@@ -2,7 +2,7 @@
 title: "個人メモツールのDiscord Bot UXを改善する"
 slug: "improving-discord-bot-ux-for-personal-memo-tool"
 date: 2026-06-15
-draft: true
+draft: false
 categories: ["技術記事"]
 tags: ["AWS", "Discord", "TypeScript", "個人開発"]
 description: "mycow2のDiscord Bot UXを三段階で改善。Discord Modalによる編集UI、柔軟な日付パーサー拡張、ActionRowの5行制限対策を解説。"
