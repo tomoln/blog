@@ -1,6 +1,6 @@
 ---
-title: "バックビートとは何か — 複数の解釈を整理してわかったこと"
-slug: "backbeat-what-is-it"
+title: "バックビートとは何か調べる"
+slug: "what-is-backbeat"
 date: 2026-06-15
 draft: false
 categories: ["music"]
