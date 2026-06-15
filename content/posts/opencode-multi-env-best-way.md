@@ -1,8 +1,8 @@
 ---
-title: "OpenCode 第2の環境を作る最適な方法【WSL2・Codespaces徹底比較】"
+title: "エージェントAIを別の環境に作る"
 slug: "opencode-multi-env-best-way"
 date: 2026-06-15
-draft: true
+draft: false
 categories: ["tech"]
 tags: ["OpenCode", "WSL2", "GitHubCodespaces", "開発環境", "Windows", "Docker"]
 summary: "同じWindowsマシンで複数のOpenCodeを動かすと干渉する問題を解決するため、WSL2・GitHub Codespaces・Docker・VPSの4択を徹底比較。実際の環境情報をもとに最適解を提示します。"
