@@ -2,7 +2,7 @@
 title: "Oracle Cloud無料枠でOpenCode環境を作る"
 slug: "oracle-cloud-free-tier-opencode"
 date: 2026-06-16
-draft: true
+draft: false
 categories: ["tech"]
 tags: ["OracleCloud", "FreeTier", "OpenCode", "クラウドVM", "体験記", "Hetzner"]
 summary: "Oracle Cloud Free Tierの2コア/12GB無料枠に魅了され、OpenCode＋AIエージェント用のVM構築に挑戦した記録。OCI CLIの壁、Python SDKでの手動構築、そして「Out of host capacity」の悲劇までを時系列で綴ります。"
