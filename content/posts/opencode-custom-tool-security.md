@@ -2,7 +2,7 @@
 title: "opencodeのCustom Toolで個人情報を保護する"
 slug: "opencode-custom-tool-security"
 date: 2026-06-16
-draft: true
+draft: false
 categories: ["ツール活用"]
 tags: ["opencode", "セキュリティ", "Custom Tool", "プライバシー", "LLM"]
 ---
