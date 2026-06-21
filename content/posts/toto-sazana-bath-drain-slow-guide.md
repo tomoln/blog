@@ -2,7 +2,7 @@
 title: "TOTOサザナの排水が遅い原因と対策を調べる"
 slug: "toto-sazana-bath-drain-slow-guide"
 date: 2026-06-21
-draft: true
+draft: false
 categories: ["暮らし", "メンテナンス"]
 tags: ["TOTO", "サザナ", "システムバス", "排水", "お風呂掃除", "ユニットバス"]
 description: "TOTOのシステムバス「サザナ（Sazana）」の浴槽排水が遅い問題について、構造上の原因、公式の掃除手順、排水ピース取り外しの裏技まで徹底解説。"
