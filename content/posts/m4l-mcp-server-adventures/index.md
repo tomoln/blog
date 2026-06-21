@@ -1,7 +1,7 @@
 ---
 title: "M4Lデバイス開発をAIに委ねる: MCP Server構築記"
 date: 2026-06-21
-draft: true
+draft: false
 tags: ["opencode", "M4L", "Max for Live", "MCP", "TypeScript", "Zod"]
 categories: ["技術"]
 description: "opencodeのMCP (Model Context Protocol) サポートを活用し、Max for Liveデバイス開発をAIに委ねるMCP ServerをTypeScript + Zodで構築した過程。53テスト全PASS、ループエンジニアリングの実践から得た知見。"
