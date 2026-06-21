@@ -1,7 +1,7 @@
 ﻿---
 title: "WSL2 + Ubuntu 26.04 に opencode と VNC デスクトップを構築する"
 date: 2026-06-21
-draft: true
+draft: false
 tags: ["WSL2", "Ubuntu", "opencode", "x11vnc", "noVNC", "AI", "DeepSeek"]
 categories: ["Tech"]
 description: "Windows上でWSL2+Ubuntuを使ってAIコーディングエージェントopencodeを動かし、x11vnc+noVNCでブラウザからGUIデスクトップにアクセスするまでのセットアップ記録"
