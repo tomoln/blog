@@ -2,7 +2,7 @@
 title: "MCPブラウザ自動化サーバーを比較する"
 slug: "mcp-browser-automation-comparison-2026"
 date: 2026-06-22
-draft: true
+draft: false
 categories: ["技術調査"]
 tags: ["MCP", "Playwright", "Chrome DevTools", "Puppeteer", "ブラウザ自動化", "AIエージェント", "Model Context Protocol"]
 description: "【2026年版】AIエージェントのブラウザ操作精度を最大化するMCPサーバー比較。Playwright MCP（Microsoft公式、34.2k⭐）とChrome DevTools MCP（44.1k⭐）の精度・機能・マルチブラウザ対応を徹底比較し、ユースケース別の選び方を解説する。"
