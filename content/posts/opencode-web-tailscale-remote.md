@@ -2,7 +2,7 @@
 title: "OpenCodeをスマホからリモート操作する"
 slug: "opencode-web-tailscale-remote"
 date: 2026-06-30
-draft: true
+draft: false
 categories: ["tooling"]
 tags: ["OpenCode", "Tailscale", "リモートアクセス", "スマホ開発", "VPN", "WireGuard"]
 summary: "OpenCodeのopencode web機能とTailscale VPNを組み合わせて、外出先のスマートフォンからPC上のAIコーディング環境を安全にリモート操作する方法を解説します。"
